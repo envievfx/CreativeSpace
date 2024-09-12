@@ -1,1 +1,13 @@
 <DOCTYPE! HTML>
+<!DOCTYPE html>
+<html lang="nl">
+    <head>
+        <title>CreativeSpace</title>
+    </head>
+    <body>
+        Test 1
+    </body>
+    <p><strong>Ik ben Niels Verhagen </strong><i> hoi </i></p>
+    <h1> header</h1>
+    <h2>hello</h2>
+<html>
